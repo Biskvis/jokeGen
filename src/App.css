@@ -1,0 +1,29 @@
+body {
+  background-color:seagreen;
+  font-family: Arial, Helvetica, sans-serif;
+  color:bisque;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
